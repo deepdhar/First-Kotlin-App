@@ -1,2 +1,2 @@
 # First-Kotlin-App
-keeping the app here for the sake of memory
+A basic to-do app made with Kotlin
